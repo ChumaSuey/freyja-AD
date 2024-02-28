@@ -56,6 +56,8 @@ I was going to make a Shambler boss with 2000 health but then i found an enemy t
 
 I used Trimsheets in some parts of the map, i used my experience with Trimsheets : Makkon's video and doc, explanations by other people among the community ( i thank AlexUnder for this), and well... practice... In case i didn't use them properly or have a feedback please say it to me kindly so i can improve (i think i used them fairly enough, i'll keep practicing in the future, while some people may find trimsheets confusing i had fun attempting).
 
+There's a small reference to my friend miss_slaughter and her dog named Freyja (who has no relation to the creation of this map, i just love the Nordic Mythology and Freyja is my favorite goddess), and special shout out to Nightdive studios and miss_slaughter for the amazing monday night frag matches, makes me start my week with energy :).
+
 Hope you had fun playing this small project... surely is not my best work, but i had fun making it.
 
 Excelsior!
@@ -66,6 +68,7 @@ Excelsior!
 - Mr.M
 - RecycledOJ
 - Kirotael
+- Miss_slaughter
 - Damaec
 - Dany
 - Nepta
@@ -76,6 +79,7 @@ Excelsior!
 - Quake Champions community (Nyx's and Dez's communities hugs for them always)
 - Quake speedrunning community
 - New Blood Interactive
+- Nightdive studios.
 - David's Shack discord
 - Bully squad
 
