@@ -1,4 +1,4 @@
-# freyja / "Freyja's Demise" 
+# freyja.bsp / "Freyja's Demise" 
 Quake map for Arcane Dimensions version 1.81
 source for AD : https://www.quaddicted.com/reviews/ad_v1_80p1final.html
 
